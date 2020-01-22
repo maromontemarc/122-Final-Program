@@ -1,0 +1,12 @@
+﻿  Enemy.cpp
+  Hunter.cpp
+  Player.cpp
+  Game.cpp
+c:\users\marom\source\repos\final program\final program\game.cpp(56): warning C4551: function call missing argument list
+  Rogue.cpp
+  Warrior.cpp
+  Generating code
+c:\users\marom\source\repos\final program\final program\linkedlist.h(357): warning C4715: 'LinkedList<Enemy *>::getNodeAt': not all control paths return a value
+  All 313 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Final Program.vcxproj -> C:\Users\marom\source\repos\Final Program\Release\Final Program.exe
